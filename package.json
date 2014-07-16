@@ -1,6 +1,6 @@
 {
-  "name": "str",
-  "version": "0.0.0",
+  "name": "through2-str",
+  "version": "0.0.1",
   "description": "String to stream",
   "main": "str.js",
   "scripts": {
